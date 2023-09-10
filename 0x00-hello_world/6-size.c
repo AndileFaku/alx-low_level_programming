@@ -3,7 +3,7 @@
  * main - Printing sizes of various types on the computer
  * Return 0 (Success)
  */
-int main(void)
+int main()
 {
 	char a;
 	int b;
