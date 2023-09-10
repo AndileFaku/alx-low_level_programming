@@ -2,7 +2,9 @@
 
 /**
  * main - Entry point
+ *
  * description - Printing size of various types on the computer
+ *
  * return: 0 (Success)
  */
 int main(void)
